@@ -1,0 +1,32 @@
+/************** Layout **************/
+/* açıklama satırı */
+
+body {
+  
+  color: white;
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+}
+
+/* 
+h2 {
+  color: blue;
+  font-size: 4px;
+} */
+
+h2 {
+  background-color: black;
+  color: red;
+  font-size: 74px;
+  text-transform: capitalize;
+}
+p {
+  background-color: black;
+  font-size: 40px;
+  text-transform:uppercase;
+  color: aqua;
+}
+
+ul {
+  color: blue;
+}
